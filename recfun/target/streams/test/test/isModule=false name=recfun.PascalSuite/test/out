@@ -1,9 +1,9 @@
 [0m[[0minfo[0m] [0m[32mPascalSuite:[0m[0m
 [0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: recfun.PascalSuite *** ABORTED ***[0m[0m
 [0m[[0minfo[0m] [0m[31m  java.lang.StackOverflowError:[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.Product2$mcII$sp$class.$init$(Product2.scala:20)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.Tuple2$mcII$sp.<init>(Tuple2.scala:20)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
 [0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
 [0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
 [0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:19)[0m[0m
